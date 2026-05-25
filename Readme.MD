@@ -61,6 +61,22 @@ Simulates a recruiter reviewing the profile for 15 seconds and explains:
 
 ---
 
+# Screenshots
+
+## Skill in Use
+
+![Skill in Use](assets/skill-in-use.png)
+
+## Analysis Output Example
+
+![Analysis Output](assets/analysis-output.png)
+
+## Profile Score Example
+
+![Profile Score](assets/profile-score.png)
+
+---
+
 # Installation
 
 ## Step 1 — Open Claude Desktop
@@ -167,3 +183,8 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/uritisaiabhishek/
 # License
 
 MIT
+
+
+
+if useing browser version of claude:
+navigate to URL : https://claude.ai/customize/skills then press add skill and select the linked-in-profile-builder.skill file
