@@ -2,6 +2,8 @@
 
 An advanced LinkedIn Profile Analysis and ATS Optimization skill for Claude Desktop / Claude Code.
 
+**Author:** [Uriti Sai Abhishek](https://www.linkedin.com/in/uritisaiabhishek/)
+
 This skill:
 - Reviews LinkedIn profiles like a recruiter
 - Gives ATS and recruiter score
@@ -151,6 +153,14 @@ Potential upgrades:
 * Personal website audit
 * AI-generated LinkedIn banner
 * Recruiter persona simulation
+
+---
+
+# Author
+
+Created by Uriti Sai Abhishek
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/uritisaiabhishek/
 
 ---
 
